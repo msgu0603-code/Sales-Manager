@@ -1,2 +1,3 @@
-# Gestor-de-ventas
-Paquete para gestionar ventas, precios, impuestos, descuentos
+# Sales Manager
+
+Package for managing sales, prices, taxes, discounts
