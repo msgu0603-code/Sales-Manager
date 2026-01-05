@@ -7,7 +7,7 @@ This package provides functionalities for managing sales, including price calcul
 You can install the package using:
 
 ```bash
-pip install sales-manager
+pip install Sales-Manager-GVP
 
 ```
 
